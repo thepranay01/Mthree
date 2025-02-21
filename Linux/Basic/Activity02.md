@@ -78,6 +78,6 @@ du . -ha
 ```
 
 ## Screenshot Section
-![Screenshot](Screenshots\Activity_02.png)
+![Screenshot](Activity_02.png)
 
 
