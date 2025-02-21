@@ -78,6 +78,6 @@ du . -ha
 ```
 
 ## Screenshot Section
-![Screenshot](Activity_02.png)
+![Screenshot](https://github.com/thepranay01/Mthree/blob/main/Linux/Basic/Screenshots/Activity_02.png)
 
 
