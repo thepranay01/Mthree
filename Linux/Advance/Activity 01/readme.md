@@ -237,4 +237,3 @@ ps -eo pid,%mem,%cpu,cmd --sort=-%mem | head -n 6
 ```bash
 bc <<< "$(cat free_mega_before_stress) - $(cat free_mega_during_stress)"
 ```
-
